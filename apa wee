@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+<head><title>Hai njing</title>
+<!-- Created By LUNG2 -->
+<script>alert ('hai bby')
+alert('ur in my head 24/7 rent free')
+alert('dont forget about me okay')
+alert('because i lov u')
+alert ('satu hal lagi')
+alert('LO KONTOL ANJING')</script>
+<script language="JavaScript"> 
+function tb5_makeArray(n){
+ this.length = n;
+  return this.length;
+  }
